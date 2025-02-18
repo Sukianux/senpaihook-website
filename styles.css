@@ -6,7 +6,6 @@ body {
     text-align: center;
     font-family: Arial, sans-serif;
 }
-
 .background-video {
     position: fixed;
     top: 0;
@@ -16,20 +15,17 @@ body {
     object-fit: cover;
     filter: blur(5px) brightness(60%);
 }
-
 .container {
     position: relative;
     z-index: 2;
     padding: 50px;
 }
-
 h1 {
     font-size: 3.5em;
     font-weight: bold;
     text-shadow: 0 0 20px rgba(255, 255, 255, 0.9);
     animation: glow 1.5s infinite alternate;
 }
-
 @keyframes glow {
     from {
         text-shadow: 0 0 10px rgba(255, 255, 255, 0.8);
@@ -80,11 +76,9 @@ img {
     margin-left: auto;
     margin-right: auto;
 }
-
 img:hover {
     transform: perspective(500px) translateZ(50px);
 }
-
 .code-box {
     background: rgba(44, 14, 90, 0.8);
     padding: 15px;
@@ -96,14 +90,12 @@ img:hover {
     margin-left: auto;
     margin-right: auto;
 }
-
 .code-box code {
     font-size: 1.1em;
     color: #ffccff;
     user-select: all;
     transition: text-shadow 0.3s ease-in-out;
 }
-
 .code-box:hover code {
     text-shadow: 0 0 10px rgba(255, 204, 255, 0.8);
 }
