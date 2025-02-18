@@ -1,6 +1,6 @@
 # Senpaihook - The BEST Roblox Script
 
-![Senpaihook Banner](https://via.placeholder.com/1500x300/800080/ffffff?text=Senpaihook+Banner)
+![Senpaihook Banner](https://media1.tenor.com/m/C_y6t41JE9cAAAAd/anime-girl.gif)
 
 ## 🚀 Works Best On:
 - **Arsenal**
